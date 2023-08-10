@@ -1,2 +1,2 @@
 # React-components
-Created with CodeSandbox
+Practice of react components
